@@ -50,7 +50,3 @@ If you prefer one self-contained file (single HTML with inlined CSS), I can gene
 
 **Credits**
 - Maker: SHASHANK
-
-If you want, I will now:
-- (A) Generate `wallpaper.full.html` (single-file inlined), or
-- (B) Add a small palette-switch UI and some preset color themes to `wallpaper.html`/`index.html`.
